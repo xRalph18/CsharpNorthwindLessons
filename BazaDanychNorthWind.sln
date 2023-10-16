@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BazaDanychNorthWind - 1", "BazaDanychNorthWind - 1\BazaDanychNorthWind - 1.csproj", "{43015A57-26CB-4266-BE3A-C2F72C18AD56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BazaDanychNorthWind - 1", "BazaDanychNorthWind - 1\BazaDanychNorthWind - 1.csproj", "{43015A57-26CB-4266-BE3A-C2F72C18AD56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BazaDanychNorthWind_Dapper - 2", "BazaDanychNorthWind_Dapper - 2\BazaDanychNorthWind_Dapper - 2.csproj", "{B7452685-8D21-4951-B30C-1F310588A708}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{43015A57-26CB-4266-BE3A-C2F72C18AD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43015A57-26CB-4266-BE3A-C2F72C18AD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43015A57-26CB-4266-BE3A-C2F72C18AD56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7452685-8D21-4951-B30C-1F310588A708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7452685-8D21-4951-B30C-1F310588A708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7452685-8D21-4951-B30C-1F310588A708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7452685-8D21-4951-B30C-1F310588A708}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
