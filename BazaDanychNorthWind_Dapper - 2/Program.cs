@@ -23,3 +23,5 @@ class Program
         }
     }
 }
+
+// wykonaj projekt, w którym tworzysz bazę danych, dla której utworzysz program używając dappera wykonując podstawowe polecenia SELECT, INSERT, DELETE, UPDATE;
