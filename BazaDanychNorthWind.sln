@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BazaDanychNorthWind_Dapper 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperRainbow - 3", "DapperRainbow - 3\DapperRainbow - 3.csproj", "{2894501D-9DB0-45BA-9FD4-0C736A44FEE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperContrib - 4", "DapperContrib - 4\DapperContrib - 4.csproj", "{B076FB42-463F-469A-BF89-A8BDAD905616}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperContrib - 4", "DapperContrib - 4\DapperContrib - 4.csproj", "{B076FB42-463F-469A-BF89-A8BDAD905616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework - L5", "EntityFramework - L5\EntityFramework - L5.csproj", "{EB6F4192-3178-472B-B228-4CF244D3D093}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B076FB42-463F-469A-BF89-A8BDAD905616}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B076FB42-463F-469A-BF89-A8BDAD905616}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B076FB42-463F-469A-BF89-A8BDAD905616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB6F4192-3178-472B-B228-4CF244D3D093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6F4192-3178-472B-B228-4CF244D3D093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6F4192-3178-472B-B228-4CF244D3D093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6F4192-3178-472B-B228-4CF244D3D093}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
